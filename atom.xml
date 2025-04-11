@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-11T05:54:14.530Z</updated>
+  <updated>2025-04-11T06:11:04.623Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>交叉训练</title>
+    <link href="http://example.com/2025/04/11/202504111142%E4%BA%A4%E5%8F%89%E8%AE%AD%E7%BB%83/"/>
+    <id>http://example.com/2025/04/11/202504111142%E4%BA%A4%E5%8F%89%E8%AE%AD%E7%BB%83/</id>
+    <published>2025-04-11T06:11:27.212Z</published>
+    <updated>2025-04-11T06:11:04.623Z</updated>
+    
+    <content type="html"><![CDATA[<p>交叉训练是什么，在不同领域有着不同的定义吗，他对于人从颓废状态或者学习技能的时候，有没有科学、可持续的提升方式，是不是这样的一个解决方案呢</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;交叉训练是什么，在不同领域有着不同的定义吗，他对于人从颓废状态或者学习技能的时候，有没有科学、可持续的提升方式，是不是这样的一个解决方案呢&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
